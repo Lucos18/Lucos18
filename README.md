@@ -1,7 +1,7 @@
-<img src="images/svg/header_en.svg"></img>
+<img src="header_en.svg"></img>
 
 <table align="right">
- <tr><td><a href="README.md"><img src="images/us-flag.png" height="13"> English</a></td></tr>
+ <tr><td><a href="README.md"><img src="us-flag.png" height="13"> English</a></td></tr>
 </table>
 
 ### :space_invader: &nbsp;About Me
