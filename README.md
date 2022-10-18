@@ -75,7 +75,7 @@ blockchain, cryptocurrencies, cryptography, bitcoin, ethereum
 ![Cpp](https://img.shields.io/badge/C++-00599C.svg?&style=flat&logo=c%2B%2B&logoColor=white)&nbsp;
 ![Arduino](https://img.shields.io/badge/ARDUINO-00979D.svg?&style=flat&logo=arduino&logoColor=white)&nbsp;
 ![JQuery](https://img.shields.io/badge/JQUERY-0769AD.svg?&style=flat&logo=jquery&logoColor=white)&nbsp;
-![PHP](https://img.shields.io/badge/PHP-777BB4.svg?&style=flat&logo=php&logoColor=white)&nbsp;\
+![PHP](https://img.shields.io/badge/PHP-777BB4.svg?&style=flat&logo=php&logoColor=white)&nbsp;
 
 </details>
 
