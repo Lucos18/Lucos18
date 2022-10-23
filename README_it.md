@@ -1,15 +1,15 @@
-<img src="images/headers/header_en.svg"></img>
+<img src="images/headers/header_it.svg"></img>
 
 <table align="right">
  <tr><td><a href="README.md"><img src="images/flags/us-flag.png" height="13"> English</a></td></tr>
  <tr><td><a href="README_it.md"><img src="images/flags/it-flag.png" height="13"> Italian</a></td></tr>
 </table>
 
-### :space_invader: &nbsp;About Me
+### :space_invader: &nbsp;Qualcosa su di me
 
-&nbsp;&nbsp;&nbsp;:technologist: &nbsp;Currently working as a intern at [NETCOM](https://www.netcomgroup.eu/) (Via Nuova Poggioreale, Centro Polifunzionale T7) \
-&nbsp;&nbsp;&nbsp;:seedling: &nbsp;Love for science and innovation.\
-&nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Passionate with problem solving and daily routines automation.\
+&nbsp;&nbsp;&nbsp;:technologist: &nbsp;Attualmente lavoro come tirocinante alla [NETCOM](https://www.netcomgroup.eu/) (Via Nuova Poggioreale, Centro Polifunzionale T7) \
+&nbsp;&nbsp;&nbsp;:seedling: &nbsp;Amante scienza e alla innovazione.\
+&nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Appassionato di problem solving e automazione della routine quotidiana.\
 
 <p align="center">
   <a href="mailto:lucabuonpane3@gmail.com?subject=Hello%20Luca%20Buonpane"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -20,7 +20,7 @@
 <hr/>
 
 <details>
-  <summary><b>:computer: &nbsp;Main tech knowledge</b></summary>
+  <summary><b>:computer: &nbsp;Principali conoscenze tecnologiche</b></summary>
   <br/>
 
 ![Java](https://img.shields.io/badge/JAVA-007396.svg?&style=flat&logo=java&logoColor=white)&nbsp;
@@ -66,7 +66,7 @@ blockchain, cryptocurrencies, cryptography, bitcoin, ethereum
 -->
 
 <details>
-  <summary><b>:brain: &nbsp;Other knowledge, always learning</b></summary>
+  <summary><b>:brain: &nbsp;Altre conoscenze</b></summary>
   <br/>
 
 ![Kotlin](https://img.shields.io/badge/KOTLIN-0095D5.svg?&style=flat&logo=kotlin&logoColor=white)&nbsp;
@@ -80,7 +80,7 @@ blockchain, cryptocurrencies, cryptography, bitcoin, ethereum
 </details>
 
 <details>
-  <summary><b>:gear: &nbsp;GitHub Statistics</b></summary>
+  <summary><b>:gear: &nbsp;Statistiche di Github</b></summary>
   <br/>
     <p align="center">
         <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=Lucos18&hide_border=true&theme=nightowl" />
