@@ -7,7 +7,7 @@
 
 ### :space_invader: &nbsp;Qualcosa su di me
 
-&nbsp;&nbsp;&nbsp;🏢 &nbsp;Attualmente lavoro come tirocinante alla [NETCOM](https://www.netcomgroup.eu/) (Via Nuova Poggioreale, Centro Polifunzionale T7) \
+&nbsp;&nbsp;&nbsp;🏢 &nbsp;Attualmente lavoro come apprendista alla [NETCOM](https://www.netcomgroup.eu/) (Via Nuova Poggioreale, Centro Polifunzionale T7) \
 &nbsp;&nbsp;&nbsp;🌱 &nbsp;Amante scienza e alla innovazione.\
 &nbsp;&nbsp;&nbsp;💓 &nbsp;Appassionato di problem solving e automazione della routine quotidiana.
 
