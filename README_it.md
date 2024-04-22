@@ -7,9 +7,9 @@
 
 ### :space_invader: &nbsp;Qualcosa su di me
 
-&nbsp;&nbsp;&nbsp;:technologist: &nbsp;Attualmente lavoro come tirocinante alla [NETCOM](https://www.netcomgroup.eu/) (Via Nuova Poggioreale, Centro Polifunzionale T7) \
-&nbsp;&nbsp;&nbsp;:seedling: &nbsp;Amante scienza e alla innovazione.\
-&nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Appassionato di problem solving e automazione della routine quotidiana.
+&nbsp;&nbsp;&nbsp;🏢 &nbsp;Attualmente lavoro come tirocinante alla [NETCOM](https://www.netcomgroup.eu/) (Via Nuova Poggioreale, Centro Polifunzionale T7) \
+&nbsp;&nbsp;&nbsp;🌱 &nbsp;Amante scienza e alla innovazione.\
+&nbsp;&nbsp;&nbsp;💓 &nbsp;Appassionato di problem solving e automazione della routine quotidiana.
 
 <p align="center">
   <a href="mailto:lucabuonpane3@gmail.com?subject=Hello%20Luca%20Buonpane"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
