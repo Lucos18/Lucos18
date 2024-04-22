@@ -7,9 +7,9 @@
 
 ### :space_invader: &nbsp;About Me
 
-&nbsp;&nbsp;&nbsp;:technologist: &nbsp;Currently working as a intern at [NETCOM](https://www.netcomgroup.eu/) (Via Nuova Poggioreale, Centro Polifunzionale T7) \
-&nbsp;&nbsp;&nbsp;:seedling: &nbsp;Love for science and innovation.\
-&nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Passionate with problem solving and daily routines automation.
+&nbsp;&nbsp;&nbsp;🏢 &nbsp;Currently working as a intern at [NETCOM](https://www.netcomgroup.eu/) (Via Nuova Poggioreale, Centro Polifunzionale T7) \
+&nbsp;&nbsp;&nbsp;🌱 &nbsp;Love for science and innovation.\
+&nbsp;&nbsp;&nbsp;💓 &nbsp;Passionate with problem solving and daily routines automation.
 
 <p align="center">
   <a href="mailto:lucabuonpane3@gmail.com?subject=Hello%20Luca%20Buonpane"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
